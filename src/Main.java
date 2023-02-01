@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class mustafa_tuna {
+public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the coefficients of the polynomial function in the following order: a, b, c, d " +
